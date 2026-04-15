@@ -1,1 +1,8 @@
 Lies_As_A_Service is a minimal Python project that retrieves data from a public API and stores it in a structured SQLite database. It showcases foundational backend concepts such as HTTP requests, JSON parsing, and database insertion.
+
+Key Features:
+-API data retrieval using requests
+-JSON parsing and structured data extraction
+-SQLite database storage
+-Automated data logging workflow
+
